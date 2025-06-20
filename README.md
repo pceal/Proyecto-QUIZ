@@ -30,7 +30,6 @@ Usar un descodificador para hacer mas legibles algunas preguntas.
 Guardar la puntuación más alta del usuario usando una grafica.
 Implementar un temporizador para las preguntas.
 Añadir diferentes categorías de preguntas.
-Opción para el número de preguntas.
 Utilizar una mejor diseño, mas atractivo para el usario.
 
 
